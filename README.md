@@ -1,4 +1,6 @@
-# \# lab-conflictos (feature-b)
+# \# lab-conflictos (feature-b editado)
+
+# 
 
 # 
 
