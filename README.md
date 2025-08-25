@@ -1,1 +1,1 @@
-# lab-conflictos (feature-b)
+# lab-conflictos (feature-a + feature-b)
